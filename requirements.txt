@@ -1,0 +1,48 @@
+# Core dependencies
+aiofiles==23.2.1
+aiohttp==3.9.1
+async-timeout==4.0.3
+
+# Audio processing
+librosa==0.10.0
+scipy==1.11.4
+numpy==1.24.3
+audioread==3.1.1
+PyAudio==0.2.13
+soundfile==0.12.1
+flac==0.0.1
+
+# AI/ML
+torch==2.1.1
+torchvision==0.16.1
+transformers==4.36.1
+tensorflow==2.14.0
+scikit-learn==0.24.2
+
+# Cryptography & Security
+cryptography==41.0.7
+pycryptodome==3.19.0
+PyJWT==2.8.1
+
+# Networking
+netifaces==0.11.0
+scapy==2.5.0
+zeroconf==20.3.0
+
+# Data handling
+pydantic==2.5.0
+msgpack==1.0.7
+jsonschema==4.20.0
+
+# Development
+pytest==7.4.3
+pytest-asyncio==0.21.1
+pytest-cov==4.1.0
+black==23.12.0
+flake8==6.1.0
+mypy==1.7.1
+ipython==8.18.1
+
+# Logging
+python-json-logger==2.0.7
+coloredlogs==15.0.1
